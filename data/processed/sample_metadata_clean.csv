@@ -1,0 +1,134 @@
+sample,geo_accession,cell_type,disease,age,gender,donorid,race,smoker,collection_date
+lib222,GSM1479434,Whole Blood,MS pretreatment,52.0,F,31,White,Y,May 21 2012
+lib223,GSM1479435,Whole Blood,MS posttreatment,52.0,F,33,White,Y,May 22 2012
+lib224,GSM1479436,Whole Blood,Type 1 Diabetes,24.0,F,34,White,--,May 23 2012
+lib225,GSM1479437,Whole Blood,Type 1 Diabetes,27.0,F,37,White,--,June 6 2012
+lib226,GSM1479438,Neutrophils,Healthy Control,32.0,F,44,Hispanic,--,June 26 2012
+lib227,GSM1479439,Monocytes,Healthy Control,32.0,F,44,Hispanic,--,June 26 2012
+lib228,GSM1479440,B-cells,Healthy Control,32.0,F,44,Hispanic,--,June 26 2012
+lib229,GSM1479441,CD4,Healthy Control,32.0,F,44,Hispanic,--,June 26 2012
+lib230,GSM1479442,CD8,Healthy Control,32.0,F,44,Hispanic,--,June 26 2012
+lib231,GSM1479443,NK,Healthy Control,32.0,F,44,Hispanic,--,June 26 2012
+lib232,GSM1479444,Neutrophils,MS pretreatment,52.0,F,31,White,Y,May 21 2012
+lib233,GSM1479445,Monocytes,MS pretreatment,52.0,F,31,White,Y,May 21 2012
+lib234,GSM1479446,B-cells,MS pretreatment,52.0,F,31,White,Y,May 21 2012
+lib235,GSM1479447,CD4,MS pretreatment,52.0,F,31,White,Y,May 21 2012
+lib236,GSM1479448,CD8,MS pretreatment,52.0,F,31,White,Y,May 21 2012
+lib237,GSM1479449,Neutrophils,MS posttreatment,52.0,F,33,White,Y,May 22 2012
+lib238,GSM1479450,Monocytes,MS posttreatment,52.0,F,33,White,Y,May 22 2012
+lib239,GSM1479451,B-cells,MS posttreatment,52.0,F,33,White,Y,May 22 2012
+lib240,GSM1479452,CD4,MS posttreatment,52.0,F,33,White,Y,May 22 2012
+lib241,GSM1479453,CD8,MS posttreatment,52.0,F,33,White,Y,May 22 2012
+lib242,GSM1479454,Neutrophils,Type 1 Diabetes,24.0,F,34,White,--,May 23 2012
+lib243,GSM1479455,Monocytes,Type 1 Diabetes,24.0,F,34,White,--,May 23 2012
+lib244,GSM1479456,B-cells,Type 1 Diabetes,24.0,F,34,White,--,May 23 2012
+lib245,GSM1479457,CD4,Type 1 Diabetes,24.0,F,34,White,--,May 23 2012
+lib246,GSM1479458,CD8,Type 1 Diabetes,24.0,F,34,White,--,May 23 2012
+lib247,GSM1479459,NK,Type 1 Diabetes,24.0,F,34,White,--,May 23 2012
+lib248,GSM1479460,Neutrophils,Type 1 Diabetes,27.0,F,37,White,--,June 6 2012
+lib249,GSM1479461,Monocytes,Type 1 Diabetes,27.0,F,37,White,--,June 6 2012
+lib250,GSM1479462,B-cells,Type 1 Diabetes,27.0,F,37,White,--,June 6 2012
+lib251,GSM1479463,CD4,Type 1 Diabetes,27.0,F,37,White,--,June 6 2012
+lib252,GSM1479464,CD8,Type 1 Diabetes,27.0,F,37,White,--,June 6 2012
+lib253,GSM1479465,Neutrophils,Sepsis,80.0,M,43,White,--,June 22 2012
+lib254,GSM1479466,Monocytes,Sepsis,80.0,M,43,White,--,June 22 2012
+lib255,GSM1479467,B-cells,Sepsis,80.0,M,43,White,--,June 22 2012
+lib256,GSM1479468,CD4,Sepsis,80.0,M,43,White,--,June 22 2012
+lib257,GSM1479469,CD8,Sepsis,80.0,M,43,White,--,June 22 2012
+lib258,GSM1479470,NK,Sepsis,80.0,M,43,White,--,June 22 2012
+lib259,GSM1479471,Whole Blood,Sepsis,80.0,M,43,White,--,June 22 2012
+lib260,GSM1479472,Neutrophils,Sepsis,39.0,F,49,White,--,July 5 2012
+lib261,GSM1479473,Monocytes,Sepsis,39.0,F,49,White,--,July 5 2012
+lib262,GSM1479474,B-cells,Sepsis,39.0,F,49,White,--,July 5 2012
+lib263,GSM1479475,CD4,Sepsis,39.0,F,49,White,--,July 5 2012
+lib264,GSM1479476,CD8,Sepsis,39.0,F,49,White,--,July 5 2012
+lib265,GSM1479477,Whole Blood,Sepsis,39.0,F,49,White,--,July 5 2012
+lib266,GSM1479478,Neutrophils,Sepsis,59.0,F,50,Asian,--,July 6 2012
+lib267,GSM1479479,Monocytes,Sepsis,59.0,F,50,Asian,--,July 6 2012
+lib268,GSM1479480,B-cells,Sepsis,59.0,F,50,Asian,--,July 6 2012
+lib269,GSM1479481,CD4,Sepsis,59.0,F,50,Asian,--,July 6 2012
+lib270,GSM1479482,CD8,Sepsis,59.0,F,50,Asian,--,July 6 2012
+lib271,GSM1479483,NK,Sepsis,59.0,F,50,Asian,--,July 6 2012
+lib272,GSM1479484,Whole Blood,Sepsis,59.0,F,50,Asian,--,July 6 2012
+lib273,GSM1479485,Neutrophils,MS pretreatment,36.0,F,45,White,N,June 28 2012
+lib274,GSM1479486,Monocytes,MS pretreatment,36.0,F,45,White,N,June 28 2012
+lib275,GSM1479487,B-cells,MS pretreatment,36.0,F,45,White,N,June 28 2012
+lib276,GSM1479488,CD4,MS pretreatment,36.0,F,45,White,N,June 28 2012
+lib277,GSM1479489,CD8,MS pretreatment,36.0,F,45,White,N,June 28 2012
+lib278,GSM1479490,NK,MS pretreatment,36.0,F,45,White,N,June 28 2012
+lib279,GSM1479491,Whole Blood,MS pretreatment,36.0,F,45,White,N,June 28 2012
+lib280,GSM1479492,Neutrophils,MS posttreatment,36.0,F,46,White,N,June 29 2012
+lib281,GSM1479493,Monocytes,MS posttreatment,36.0,F,46,White,N,June 29 2012
+lib282,GSM1479494,B-cells,MS posttreatment,36.0,F,46,White,N,June 29 2012
+lib283,GSM1479495,CD4,MS posttreatment,36.0,F,46,White,N,June 29 2012
+lib284,GSM1479496,CD8,MS posttreatment,36.0,F,46,White,N,June 29 2012
+lib285,GSM1479497,NK,MS posttreatment,36.0,F,46,White,N,June 29 2012
+lib286,GSM1479498,Whole Blood,MS posttreatment,36.0,F,46,White,N,June 29 2012
+lib288,GSM1479499,Neutrophils,Healthy Control,29.0,F,20,White,--,January 25 2012
+lib289,GSM1479500,Monocytes,Healthy Control,29.0,F,20,White,--,January 25 2012
+lib290,GSM1479501,B-cells,Healthy Control,29.0,F,20,White,--,January 25 2012
+lib291,GSM1479502,CD4,Healthy Control,29.0,F,20,White,--,January 25 2012
+lib292,GSM1479503,CD8,Healthy Control,29.0,F,20,White,--,January 25 2012
+lib293,GSM1479504,NK,Healthy Control,29.0,F,20,White,--,January 25 2012
+lib294,GSM1479505,Whole Blood,Healthy Control,29.0,F,20,White,--,January 25 2012
+lib295,GSM1479506,Neutrophils,Healthy Control,22.0,F,21,White,--,February 2 2012
+lib296,GSM1479507,Monocytes,Healthy Control,22.0,F,21,White,--,February 2 2012
+lib297,GSM1479508,B-cells,Healthy Control,22.0,F,21,White,--,February 2 2012
+lib298,GSM1479509,CD4,Healthy Control,22.0,F,21,White,--,February 2 2012
+lib299,GSM1479510,CD8,Healthy Control,22.0,F,21,White,--,February 2 2012
+lib300,GSM1479511,NK,Healthy Control,22.0,F,21,White,--,February 2 2012
+lib301,GSM1479512,Whole Blood,Healthy Control,22.0,F,21,White,--,February 2 2012
+lib302,GSM1479513,Neutrophils,ALS,,,52,--,--,August 16 2012
+lib303,GSM1479514,Monocytes,ALS,,,52,--,--,August 16 2012
+lib304,GSM1479515,B-cells,ALS,,,52,--,--,August 16 2012
+lib305,GSM1479516,CD4,ALS,,,52,--,--,August 16 2012
+lib306,GSM1479517,CD8,ALS,,,52,--,--,August 16 2012
+lib307,GSM1479518,NK,ALS,,,52,--,--,August 16 2012
+lib308,GSM1479519,Whole Blood,ALS,,,52,--,--,August 16 2012
+lib309,GSM1479520,Neutrophils,Healthy Control,30.0,F,53,White,--,August 21 2012
+lib310,GSM1479521,Monocytes,Healthy Control,30.0,F,53,White,--,August 21 2012
+lib311,GSM1479522,B-cells,Healthy Control,30.0,F,53,White,--,August 21 2012
+lib312,GSM1479523,CD4,Healthy Control,30.0,F,53,White,--,August 21 2012
+lib313,GSM1479524,CD8,Healthy Control,30.0,F,53,White,--,August 21 2012
+lib314,GSM1479525,NK,Healthy Control,30.0,F,53,White,--,August 21 2012
+lib315,GSM1479526,Whole Blood,Healthy Control,30.0,F,53,White,--,August 21 2012
+lib316,GSM1479527,Neutrophils,ALS,,,54,--,--,August 22 2012
+lib317,GSM1479528,Monocytes,ALS,,,54,--,--,August 22 2012
+lib318,GSM1479529,B-cells,ALS,,,54,--,--,August 22 2012
+lib319,GSM1479530,CD4,ALS,,,54,--,--,August 22 2012
+lib320,GSM1479531,CD8,ALS,,,54,--,--,August 22 2012
+lib321,GSM1479532,NK,ALS,,,54,--,--,August 22 2012
+lib322,GSM1479533,Whole Blood,ALS,,,54,--,--,August 22 2012
+lib323,GSM1479534,Neutrophils,Type 1 Diabetes,42.0,M,40,White,--,June 19 2012
+lib324,GSM1479535,Monocytes,Type 1 Diabetes,42.0,M,40,White,--,June 19 2012
+lib325,GSM1479536,B-cells,Type 1 Diabetes,42.0,M,40,White,--,June 19 2012
+lib326,GSM1479537,CD4,Type 1 Diabetes,42.0,M,40,White,--,June 19 2012
+lib327,GSM1479538,CD8,Type 1 Diabetes,42.0,M,40,White,--,June 19 2012
+lib328,GSM1479539,Whole Blood,Type 1 Diabetes,42.0,M,40,White,--,June 19 2012
+lib329,GSM1479540,Neutrophils,Type 1 Diabetes,21.0,F,41,White,--,June 20 2012
+lib330,GSM1479541,Monocytes,Type 1 Diabetes,21.0,F,41,White,--,June 20 2012
+lib331,GSM1479542,B-cells,Type 1 Diabetes,21.0,F,41,White,--,June 20 2012
+lib332,GSM1479543,CD4,Type 1 Diabetes,21.0,F,41,White,--,June 20 2012
+lib333,GSM1479544,CD8,Type 1 Diabetes,21.0,F,41,White,--,June 20 2012
+lib334,GSM1479545,NK,Type 1 Diabetes,21.0,F,41,White,--,June 20 2012
+lib335,GSM1479546,Whole Blood,Type 1 Diabetes,21.0,F,41,White,--,June 20 2012
+lib336,GSM1479547,Neutrophils,MS pretreatment,35.0,F,55,White,N,August 23 2012
+lib337,GSM1479548,Monocytes,MS pretreatment,35.0,F,55,White,N,August 23 2012
+lib338,GSM1479549,B-cells,MS pretreatment,35.0,F,55,White,N,August 23 2012
+lib339,GSM1479550,CD4,MS pretreatment,35.0,F,55,White,N,August 23 2012
+lib340,GSM1479551,CD8,MS pretreatment,35.0,F,55,White,N,August 23 2012
+lib341,GSM1479552,Whole Blood,MS pretreatment,35.0,F,55,White,N,August 23 2012
+lib342,GSM1479553,Neutrophils,MS posttreatment,35.0,F,56,White,N,August 24 2012
+lib343,GSM1479554,Monocytes,MS posttreatment,35.0,F,56,White,N,August 24 2012
+lib344,GSM1479555,B-cells,MS posttreatment,35.0,F,56,White,N,August 24 2012
+lib345,GSM1479556,CD4,MS posttreatment,35.0,F,56,White,N,August 24 2012
+lib346,GSM1479557,CD8,MS posttreatment,35.0,F,56,White,N,August 24 2012
+lib347,GSM1479558,NK,MS posttreatment,35.0,F,56,White,N,August 24 2012
+lib348,GSM1479559,Whole Blood,MS posttreatment,35.0,F,56,White,N,August 24 2012
+lib349,GSM1479560,Neutrophils,ALS,,,58,--,--,September 12 2012
+lib350,GSM1479561,Monocytes,ALS,,,58,--,--,September 12 2012
+lib351,GSM1479562,B-cells,ALS,,,58,--,--,September 12 2012
+lib352,GSM1479563,CD4,ALS,,,58,--,--,September 12 2012
+lib353,GSM1479564,CD8,ALS,,,58,--,--,September 12 2012
+lib354,GSM1479565,NK,ALS,,,58,--,--,September 12 2012
+lib355,GSM1479566,Whole Blood,ALS,,,58,--,--,September 12 2012
