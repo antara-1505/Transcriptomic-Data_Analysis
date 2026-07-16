@@ -262,4 +262,4 @@ Bioinformatics | Computational Biology | Cancer Genomics
 
 GitHub: https://github.com/antara-1505
 
-LinkedIn: *(Add your profile link here)*
+LinkedIn: *https://www.linkedin.com/in/antara-shaw-480384224/*
